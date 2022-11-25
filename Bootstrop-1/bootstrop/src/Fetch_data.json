@@ -1,0 +1,54 @@
+{
+    "BENGALURU": [
+        
+        { "full_name": "Prestige" },
+        { "full_name": "golden height" },
+        { "full_name": "Prestige Ozone" },
+        { "full_name": "anuraag Amogh" },
+        { "full_name": "PRESTIGE REGENT PLACE" },
+        { "full_name": "Prestige Casabella" },
+        { "full_name": "golden height" },
+        { "full_name": "leeela Residences" }
+    
+    ],
+    "HYDERABAD": [
+        
+        { "full_name": "lalitha apartment" },
+        { "full_name": "rajitha apartment" },
+        { "full_name": "anitha constrct" },
+        { "full_name": "sangetha apartment " },
+        { "full_name": "sobha" },
+        { "full_name": "tata The Promont" },
+        {"full_name": "saroj Whispering Winds"},
+        {"full_name": "himasai Heights"},
+        {"full_name": "kumar Prospera"}
+  
+
+],
+"NELLORE": [
+
+        {"full_name": "vandana apartment"},
+        {"full_name": "Prestige Downtown Apartment"},
+        {"full_name": "West raji Nagar"},
+        {"full_name": "Prestige apartment"},
+        {"full_name": "ramya area-2"},
+        {"full_name": "garuda Creek"},
+        {"full_name": "inspira Tropical Garde"},
+        {"full_name": "residential Plot"},
+        {"full_name": "residential Plot"}
+
+],
+"COIMBATORE":[
+
+        {"full_name": "mounika area"},
+        {"full_name": "coimbatore area-1"},
+        {"full_name": "coimbatore area-2"},
+        {"full_name": "ragavi apartment"},
+        {"full_name": "anuraag Amogh"},
+        {"full_name": "subha EcoStone"},
+        {"full_name": "jhanavi Noreste"},
+        {"full_name": "pariwar Wise Palmsprings"},
+        {"full_name": "residential Plot"},
+        {"full_name": "anand Alpine"}
+]
+}
